@@ -11,6 +11,15 @@
 
 
 # Shell Script Format
+ - Define Shell (#! /bin/bash)
+ - Comments (# comments)
+ - Define variables after the comments
+ - Commands(cp, echo, grep etc. )
+ - Statements(if, while, for etc)
+
 # Sequence of script Execution
+ - Commands run from top to botton in that order.
+ 
 # What are variables and how to create them
+ - This are place holders and should be given relevant names.
 
