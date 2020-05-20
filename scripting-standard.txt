@@ -1,0 +1,16 @@
+# Script Naming Convention
+ - Always create a directory to store your scripts, be orderly
+ - Script name should identify a function/purpose
+ - name end with [.shell] if used for multiple shells, otherwise [.bash] for 
+   bash shell etc.
+
+# Script File Permissions
+ - You need right permission to execute a file. i.e rwx Permissions.
+ - e.g rwxr-xr-x where root has full permission, group has xr and other xr
+ - to change permission [chmod a+x script-name] where "a" stands for all.
+
+
+# Shell Script Format
+# Sequence of script Execution
+# What are variables and how to create them
+
