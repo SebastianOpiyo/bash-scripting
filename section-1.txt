@@ -1,0 +1,48 @@
+# We will look at the following:
+    What us a Kernel
+    What is a Shell
+    What is shell scripting ?
+    Types of shells
+    Starting a shell
+    How to run a shell
+
+1. What is a *Kernel* ?
+    Is the program interface between the hardware and OS. the shell is part of the OS.
+
+2. What is a shell ?
+    - Is like a container
+    - An interface between users and the kernel/OS
+    - CLI is a shell
+
+    *How to find your own shell
+    [echo $0] --> tell you which shell you using
+    [cat/etc/shells] --> list available cat/etc/shells
+    [etc/passwd] --> Your current shell
+
+    * Examples of shells
+    - Windows GUI is a shell
+    - Linux Gnome/KDE shell is a shell
+    - Linux sh, bash, etc is a shell
+
+3. What is shell scripting?
+    - Giving commands to the shell to run.
+    - It can either be by use of pre-made scripts by devs, like those issued while clicking the GUI
+    - Or you can manufacture your own and run to automate repetitive tasks.
+
+4. Different Types of Linux Shells
+    - Gnome is a GUI shell. 
+    - KDE GUI shells
+    - sh is none GUI, and is a borne shell. 
+    - bash is an improved version of sh and means born again shell, so its name.
+    - csh and tcsh, good for C programmers....for they are implemented for C usage
+    - ksh, corn shell. Is most used in Solaris destro. 
+
+5. Starting a shell
+    - Just type the name of the shell to start it.
+    - The same way to change from one to another, but first ensure it exists.
+
+6. How to run a shell script
+    - Absolute path, /my-folder/folder1/script-to-run
+    - Relative path, i.e cd /my-folder/folder1 ./script-to-run
+
+
