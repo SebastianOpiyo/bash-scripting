@@ -1,13 +1,13 @@
 # We will look at the following:
-    What us a Kernel
+    What is a Kernel
     What is a Shell
     What is shell scripting ?
     Types of shells
     Starting a shell
     How to run a shell
 
-1. What is a *Kernel* ?
-    Is the program interface between the hardware and OS. the shell is part of the OS.
+1. What is a Kernel ?
+    Is the program interface between the hardware and OS. The shell is part of the OS.
 
 2. What is a shell ?
     - Is like a container
@@ -16,7 +16,7 @@
 
     *How to find your own shell
     [echo $0] --> tell you which shell you using
-    [cat/etc/shells] --> list available cat/etc/shells
+    [cat/etc/shells] --> list available shells
     [etc/passwd] --> Your current shell
 
     * Examples of shells
@@ -43,6 +43,6 @@
 
 6. How to run a shell script
     - Absolute path, /my-folder/folder1/script-to-run
-    - Relative path, i.e cd /my-folder/folder1 ./script-to-run
+    - Relative path, i.e cd /my-folder/folder1 --> [./script-to-run]
 
 
