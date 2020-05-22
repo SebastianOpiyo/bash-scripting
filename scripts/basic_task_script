@@ -1,0 +1,51 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Purpose: Automate basic tasks
+# Date: May 22, 2020
+# Modification: May 22, 2020
+
+# Task: Create a script to run the following basic tasks:
+	# pwd, ls, whoami, date, cal, touch a b c
+
+
+echo
+echo This command will run a few basic tasks
+echo
+echo Checking the user ...
+echo
+whoami
+echo
+echo listing the working directory ...
+echo
+pwd
+echo 
+echo Listing files in the working dir ...
+echo
+ls
+echo
+echo Print current date...
+echo
+date
+echo
+echo Display the calender for the month ...
+echo
+cal
+echo
+echo Create files a, b, c ...
+echo
+touch a b c
+echo
+echo list the files created ...
+echo
+ls -alt
+echo 
+echo Remove the files created ...
+echo
+rm -rf a b c
+echo Removed!
+echo Confirm if removed
+echo 
+ls -alt
+echo
+echo End of script
+
