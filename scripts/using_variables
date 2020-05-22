@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Description: The script is meant to demo use of variables
+# Date Created: May 23, 2020
+# Date Modified: May 23, 2020
+
+# Define Variables
+# No space between the equal sign
+
+p=pwd
+l=ls
+wh=whoami # we could not use w because its a command
+sysusage=w
+d=date
+c='cal 2020'
+
+echo Run variables tasks
+echo 
+$p
+echo
+$l
+echo
+$wh
+echo
+$sysusage
+echo
+$d
+echo
+$c
+echo
+echo End of Script
+
