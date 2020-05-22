@@ -1,0 +1,27 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Purpose: A script that runs basic adminstrative tasks on Linux
+# Date Created: May 22, 2020 23:54
+# Date Modified: May 22, 2020 23:54
+##
+echo
+echo This script will automate basic adminstrative tasks
+echo
+echo Running 'top' with the first 10 lines... 
+top | head -15
+echo
+echo Checking disk space with df -h...
+echo
+df -h
+echo
+echo Check free memory/memory usage...
+echo
+free -m
+echo Check the last time reboot was done... 
+uptime
+echo
+echo Print input output stats...
+echo
+iostat
+echo 
+echo End of Script.
