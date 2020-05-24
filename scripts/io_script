@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Desc: A script that demos Input/Output script capabilities
+# Date created: May 24, 2020
+# Date Modified: May 24, 2020
+#
+# hostname is an linux real host name
+# to fix this we use the back tick on the command.
+servername=`hostname`
+echo
+echo Hello, my server name is:$servername
+echo
+echo what is your name?
+# We use read and give it a variable to hold the input value
+read username
+echo
+echo Hello, $username
+echo
+echo End of Script

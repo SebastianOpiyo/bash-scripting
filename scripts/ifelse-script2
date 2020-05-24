@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Created Date: May 24, 2020
+# Date Modified: May 24, 2020
+# Descr: A second example of if else that checks for file existence
+
+clear
+echo Check for file existence in /media/revgeek/Data/hackwaks/all-bashing/bash-scripting/scripts
+echo
+# we use  `-e` to check for exist
+if [ -e /media/revgeek/Data/hackwaks/all-bashing/bash-scripting/scripts/scripty ]
+	then
+	echo "File exists"
+	else
+	echo "File doesn't exist."
+
+fi
+
+echo End of script!
+

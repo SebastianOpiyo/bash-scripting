@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Aurthor: Sebastian Opiyo
+# Date Created: May 24, 2020
+# Date Modified: May 24, 2020
+# Descr: An if else demo script
+
+count=100
+
+# Start the if else block
+if [ $count -eq 100 ]
+then
+	echo Count is 100
+else
+	echo count is not 100
+fi
+
+echo End of Script
