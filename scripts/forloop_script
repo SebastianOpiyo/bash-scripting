@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Descr: Demo on use of for loop to do repetitive tasks
+# Date Created: May 25, 2020
+# Date Modified: May 25, 2020
+
+echo Hey! Wanna see the things Sebastian can do?
+echo
+echo Okay he can:
+# to print numbers 1-5 we loop through (1...5)
+for t in code pray dance chess cook hack
+	do 
+	echo $t
+done
+echo
+echo End of script

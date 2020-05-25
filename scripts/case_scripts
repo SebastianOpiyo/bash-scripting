@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Descr: A demo of use of case feature in scripting
+# Date Created: May 25, 2020
+# Date MOdified: May 25, 2020
+
+echo Lets play around with case
+echo 
+echo Please choose one of the following options below:
+echo
+echo 'a = Display Date & Time'
+echo 'b = List file and directories'
+echo 'c = List users logged in'
+echo 'd = Check system uptime'
+echo
+	read choices
+	case $choices in 
+a) date;;
+b) ls;;
+c) who;;
+d) uptime;;
+*) echo Invalid choice -- Bye!
+	esac
+echo
+echo End of Script!

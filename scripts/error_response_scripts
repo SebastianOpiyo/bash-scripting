@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Author: Sebastian Opiyo
+# Descr: About Error codes
+# Date Created: May 25, 2020
+# Date Modified: May 25, 2020
+
+echo Wanna know about error codes
+echo Error codes exist from 0-255
+echo Error 0 is Ok
+echo The rest mean some trouble exists...check them out in the internet
+echo
+ls -l /media/revgeek/Data/hackwaks/all-bashing/bash-scripting/scripts/scripty
+echo -------------------------------------------------------------------------
+if [ $? -eq 0 ]
+	then
+	echo File Exists
+else
+	echo File does not exist
+fi
+echo 
+echo End of Script!!!
