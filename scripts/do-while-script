@@ -1,0 +1,24 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Descr: Demo of use of do while
+# Date Created: May 25, 2020
+# Date Modified: May 25, 2020
+
+count=0
+num=10
+
+while [ $count -lt 10 ]
+	do
+	echo
+	echo $num seconds left to stop this process $1
+	echo
+	sleep 1 
+num=`expr $num - 1`
+count=`expr $count + 1`
+done
+echo
+echo $1 process is stopped!!!
+echo
+echo End of Script!
+echo
+
