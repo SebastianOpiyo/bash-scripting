@@ -1,0 +1,19 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Date: May 28, 2020
+# Modified: May 28, 2020
+# Descr: The script will ping only one remote host to check the availability of the host.
+
+host1="google.com"
+
+echo Let us ping the host to find out their availability.
+echo
+ping -c1 $host1 &> /dev/null
+	if [ $? -eq 0 ]
+	then
+	echo $host1 is OK
+	else
+	echo $host1 is NOT OK
+	fi
+echo 
+echo End of the script!!!
