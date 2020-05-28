@@ -1,0 +1,10 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Date: May 28, 2020
+# Modified: May 28, 2020
+# Descr: This script will pull error messeges only from /var/log/messages
+
+echo Start of the Script
+echo
+grep -i warn --color /media/revgeek/Data/hackwaks/all-bashing/bash-scripting/real-life-scripts/messages > ./output-warn 
+ 
