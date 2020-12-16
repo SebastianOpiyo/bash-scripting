@@ -1,0 +1,46 @@
+#!/bin/bash
+# Author: Sebastian Opiyo
+# Date Created: May 30, 2020
+# Date Modified: May 30, 2020
+# Descr: A script to recover my initial kernel state after an system upgrade crash
+
+# Start of the script 
+echo Start of the script!!!
+echo Ensure to run with sudo privilages or root.
+echo Lets capture the history of term to get the exact date and time of crutial command
+echo
+# Get the exact time I ran the upgrade from the term commands history
+history > term-history-log
+echo
+# Get the list of the packages affected during the upgrade process
+echo A sample output for you of all the package changes that took place....
+
+grep -A 2 'Start-Date: 2020-05-30 03:40:22' /var/log/apt/history.log | tail -1 > ./packages.txt
+echo
+# Do a clean up on the created packages file
+echo Time to clean up the packages file
+echo 
+sed -i 's/Install://' ./packages.txt
+echo
+tr ',' '\n' < ./packages.txt | sed '/automatic)/d' | awk '{ print $1}' > ./final.packages.txt
+echo
+echo Lets get the number of the packages handles in the final clean packages output:
+echo
+# Perform a count of the affected packages
+wc -l ./final.packages.txt
+echo
+echo Ensure you running as root to perform the following
+# Let us create a variable $p to store the packages
+p="$(<./final.packages.txt)"
+
+# Nuke it
+apt --purge remove $p
+
+# clear out the local repository of the retrieved package files
+apt-get clean
+
+# Just in case it not well done
+apt-get autoremove
+
+# To verifiy disk space
+df -H 
