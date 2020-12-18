@@ -1,0 +1,1011 @@
+    1  2020-05-30 18:26:55 code .
+    2  2020-04-29 13:50:19 git status
+    3  2020-04-29 13:50:23 git add .
+    4  2020-04-29 13:50:45 git commit -m 'update resume'
+    5  2020-04-29 13:50:59 git push origin project-author 
+    6  2020-04-30 22:41:42 cd ..
+    7  2020-04-30 22:42:06 cd hackwaks/
+    8  2020-04-30 22:42:15 cd algorithms/
+    9  2020-04-30 22:42:22 cd Algorithms-tuts/
+   10  2020-04-30 22:42:31 git status
+   11  2020-04-30 22:42:53 git add .
+   12  2020-04-30 22:43:08 git commit -m 'add time complexity'
+   13  2020-04-30 22:43:17 git push origin time-complexity 
+   14  2020-04-30 22:43:59 git checkout -b sorting-algos
+   15  2020-04-30 22:44:29 touch insertionalgo.py
+   16  2020-04-30 22:44:42 code .
+   17  2020-05-01 03:44:44 git add .
+   18  2020-05-01 03:45:11 git commit -m 'Add brief notes on intro to choice of algo'
+   19  2020-05-01 03:45:19 git push origin sorting-algos 
+   20  2020-05-01 04:07:26 python3
+   21  2020-05-01 04:08:12 pip --version
+   22  2020-05-01 04:08:33 what pip
+   23  2020-05-01 04:10:29 pip -V
+   24  2020-05-01 04:10:57 sudo apt show python3-pip
+   25  2020-05-01 04:11:44 apt show python3-pip
+   26  2020-05-01 04:12:42 python3-pip install utils
+   27  2020-05-01 04:12:58 pip install utils
+   28  2020-05-01 04:13:28 apt show python-pip
+   29  2020-05-01 04:14:31 apt show python3-pip
+   30  2020-05-01 04:15:30 sudo apt install python3-pip
+   31  2020-05-01 04:17:33 apt show python3-pip
+   32  2020-05-01 04:17:03 sudo apt update
+   33  2020-05-01 04:18:21 pip3 -version
+   34  2020-05-01 04:18:41 pip3 --version
+   35  2020-05-01 04:19:14 pip3 install utils
+   36  2020-05-01 04:20:35 python3
+   37  2020-05-01 04:25:02 pip3 uninstall -y algorithms
+   38  2020-05-01 04:25:43 apt list --upgradable
+   39  2020-05-01 04:28:57 pip3 install algorithms
+   40  2020-05-01 04:31:43 pip3 install peak
+   41  2020-05-01 04:33:25 pip3 install peak 0.5a3
+   42  2020-05-01 04:46:09 pip3 install recurse
+   43  2020-05-01 04:52:59 cd othertests/
+   44  2020-05-01 04:53:39 python3 -m trace --trace tracemodule.py 
+   45  2020-05-01 04:27:58 sudo apt upgrade
+   46  2020-05-01 05:06:08 sudo apt autoremove
+   47  2020-05-01 05:07:21 sudo shutdown -r now
+   48  2020-05-01 05:16:41 cd /media/revgeek/Data/seba_data/
+   49  2020-05-01 05:16:46 cd ..
+   50  2020-05-01 05:16:53 cd hackwaks/
+   51  2020-05-01 05:17:02 cd algorithms/Algorithms-tuts/
+   52  2020-05-01 05:17:06 code .
+   53  2020-05-01 20:41:14 git status
+   54  2020-05-01 20:41:24 git add .
+   55  2020-05-01 20:42:25 git commit -m 'Test trace module with the other tests added. And unfinished peak finder'
+   56  2020-05-01 20:42:42 git push origin sorting-algos 
+   57  2020-05-01 21:58:31 code 
+   58  2020-05-02 02:39:53 sudo apt update
+   59  2020-05-02 02:56:28 sudo apt install deluge
+   60  2020-05-02 03:02:48 deluge
+   61  2020-05-03 00:30:14 sudo shutdown -r now
+   62  2020-05-03 02:58:18 ./start-tor-browser.desktop 
+   63  2020-05-03 03:08:53 nmap
+   64  2020-05-03 03:09:13 ifconfig
+   65  2020-05-03 03:09:29 clcear
+   66  2020-05-03 03:09:58 ifconfig
+   67  2020-05-03 03:10:34 nmap -sP 192.168.2.1/24
+   68  2020-05-03 03:11:48 vim index.html 
+   69  2020-05-03 03:13:44 nmap -sP 192.168.1.0/24
+   70  2020-05-03 03:14:21 nmap -sP 192.168.88.0/24
+   71  2020-05-03 03:15:30 traceart google.com
+   72  2020-05-03 03:15:46 route google.com
+   73  2020-05-03 03:17:09 ifconfig
+   74  2020-05-03 04:04:20 cd /media/revgeek/Data/
+   75  2020-05-03 04:04:24 cd coding-interview-university/
+   76  2020-05-03 04:04:43 cd ..
+   77  2020-05-03 04:05:00 cd projects/
+   78  2020-05-03 04:05:40 cd -
+   79  2020-05-03 04:05:48 cd coding-interview-university/
+   80  2020-05-03 04:05:52 code .
+   81  2020-05-03 11:11:11 cd .
+   82  2020-05-03 11:11:13 cd ..
+   83  2020-05-03 11:11:26 cd Data/
+   84  2020-05-03 11:11:36 cd seba_data/
+   85  2020-05-03 11:11:43 less Passwds.txt 
+   86  2020-05-03 11:12:05 vim Passwds.txt 
+   87  2020-05-03 11:24:47 cd ..
+   88  2020-05-03 11:33:30 mkdir python-utils
+   89  2020-05-03 11:33:34 cd python-utils/
+   90  2020-05-03 11:33:41 git clone git@github.com:SebastianOpiyo/pythonbackend-push-notification.git
+   91  2020-05-03 11:50:06 cd pythonbackend-push-notification/
+   92  2020-05-03 11:50:33 python -m venv venv
+   93  2020-05-03 11:50:55 python -m virtualenv venv
+   94  2020-05-03 11:57:51 source venv/bin/activate
+   95  2020-05-03 11:57:57 code .
+   96  2020-05-03 12:00:25 pip3 install django
+   97  2020-05-03 12:43:45 cd /media/
+   98  2020-05-03 12:43:52 cd revgeek/Data/
+   99  2020-05-03 12:43:59 cd projects/
+  100  2020-05-03 12:44:20 git clone git@github.com:Shadlimitless/team-174.git
+  101  2020-05-03 12:44:44 cd team-174/
+  102  2020-05-03 13:07:42 cd ..
+  103  2020-05-03 13:08:05 git clone git@github.com:pmburu/WashMeApp.git
+  104  2020-05-03 13:10:22 code .
+  105  2020-05-03 13:10:58 cd WashMeApp/
+  106  2020-05-03 13:11:14 code .
+  107  2020-05-03 13:13:07 virtualenv venv
+  108  2020-05-03 13:14:11 python3 -m virtualenv venv
+  109  2020-05-03 13:14:29 python -m virtualenv venv
+  110  2020-05-03 13:15:14 python3 -m venv venv
+  111  2020-05-03 13:15:37 source venv/bin/activate
+  112  2020-05-03 13:15:41 python
+  113  2020-05-03 13:16:02 clea
+  114  2020-05-03 13:16:15 rm -rf venv/
+  115  2020-05-03 13:16:21 python3 -m venv venv
+  116  2020-05-03 13:16:35 python
+  117  2020-05-03 13:17:20 deactivate
+  118  2020-05-03 13:17:30 source venv/bin/activate
+  119  2020-05-03 13:17:33 python
+  120  2020-05-03 13:18:21 pip3 install -r requirements.txt
+  121  2020-05-03 13:26:09 sudo systemctl status mysql
+  122  2020-05-03 13:26:41 sudo systemctl start mysql
+  123  2020-05-03 13:26:49 sudo systemctl status mysql
+  124  2020-05-03 13:29:23 sudo apt update
+  125  2020-05-03 14:59:10 sudo apt install python-mysqldb
+  126  2020-05-03 15:00:02 sudo apt install limysqlclient-dev
+  127  2020-05-03 15:00:17 sudo apt install libmysqlclient-dev
+  128  2020-05-03 15:03:56 pip install mysqlclient
+  129  2020-05-03 15:05:57 sudo apt install python-dev python3-dev
+  130  2020-05-03 15:06:33 sudo apt install libmysqlclient-dev
+  131  2020-05-03 15:06:58 pip install mysqlclient
+  132  2020-05-03 15:07:12 sudo apt install libmysqlclient-dev
+  133  2020-05-03 15:13:57 mysql
+  134  2020-05-03 15:14:23 sudo mysql
+  135  2020-05-03 15:15:55 sudo apt install mysql-server
+  136  2020-05-03 15:16:46 sudo apt install default-mysql-server
+  137  2020-05-03 15:17:38 sudo apt install libmysqlclient-dev
+  138  2020-05-03 15:18:01 sudo apt install default-libmysqlclient-dev
+  139  2020-05-03 15:19:50 sudo apt update --fix-missing
+  140  2020-05-03 15:20:56 sudo apt update
+  141  2020-05-03 15:23:03 sudo apt update --fix-missing
+  142  2020-05-03 15:23:59 sudo apt install default-libmysqlclient-dev
+  143  2020-05-03 15:25:23 sudo apt update --fix-missing
+  144  2020-05-03 15:26:34 sudo apt install default-libmysqlclient-dev
+  145  2020-05-03 15:28:54 pip3 install -r requirements.txt
+  146  2020-05-03 15:55:29 cd WashAPI/
+  147  2020-05-03 15:56:05 ./manage.py runserver
+  148  2020-05-03 15:56:33 ./manage.py migration
+  149  2020-05-03 15:56:36 ./manage.py migrations
+  150  2020-05-03 15:56:46 ./manage.py runserver
+  151  2020-05-03 15:59:29 ./manage.py migrate
+  152  2020-05-03 19:46:39 ./manage.py runserver
+  153  2020-05-03 20:02:07 cd ..
+  154  2020-05-03 20:02:20 touch .env
+  155  2020-05-03 20:13:44 pip install -U python-dotenv
+  156  2020-05-03 20:17:21 pip3 install -U python-dotenv
+  157  2020-05-03 20:35:37 vim requirements.txt 
+  158  2020-05-03 20:36:51 pip3 install -r requirements.txt
+  159  2020-05-03 20:37:34 ./manage.py runserver
+  160  2020-05-03 20:37:51 cd WashAPI/
+  161  2020-05-03 20:37:59 ./manage.py runserver
+  162  2020-05-03 20:45:54 ./manage.py migrate
+  163  2020-05-03 21:08:53 sudo mysql
+  164  2020-05-03 21:13:46 service mysql restart
+  165  2020-05-03 21:14:08 ./manage.py migrate
+  166  2020-05-03 21:14:59 sudo mysql
+  167  2020-05-03 21:18:26 sudo service mysql restart
+  168  2020-05-03 21:18:45 ./manage.py runserver
+  169  2020-05-03 21:40:31 sudo service stop mysql
+  170  2020-05-03 21:40:49 sudo service status mysql
+  171  2020-05-03 21:41:14 sudo service mysql status
+  172  2020-05-03 21:42:15 sudo service mysql stop
+  173  2020-05-03 21:42:34 sudo -s
+  174  2020-05-03 22:05:04 ./manage.py runserver
+  175  2020-05-03 22:08:47 sudo -s
+  176  2020-05-03 22:09:32 mysql -u root -p
+  177  2020-05-03 22:10:14 ./manage.py runserver
+  178  2020-05-03 22:11:03 ./manage.py migrate
+  179  2020-05-03 22:14:16 ./manage.py runserver
+  180  2020-05-04 16:14:22 cd /media/revgeek/Data/
+  181  2020-05-04 16:14:37 cd projects/
+  182  2020-05-04 16:15:27 cd heco/
+  183  2020-05-05 17:28:46 sudo apt update
+  184  2020-05-05 17:32:07 cd Downloads/
+  185  2020-05-05 17:32:22 wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+  186  2020-05-05 17:33:47 sudo dpkg -i teamviewer_amd64.deb
+  187  2020-05-05 17:34:49 sudo apt -f install
+  188  2020-05-05 17:36:11 sudo apt update --fix-missing
+  189  2020-05-05 17:37:18 sudo apt -f install
+  190  2020-05-05 17:38:14 teamviewer
+  191  2020-05-05 17:40:10 sudo dpkg -i teamviewer_amd64.deb
+  192  2020-05-05 17:40:40 sudo apt -f install
+  193  2020-05-05 17:41:48 sudo apt update --fix-missing
+  194  2020-05-05 17:43:46 sudo apt -f install
+  195  2020-05-05 17:45:05 sudo apt update
+  196  2020-05-05 17:48:10 cd ..
+  197  2020-05-05 17:48:17 cd opensource/
+  198  2020-05-05 17:49:33 sudo dpkg -i teamviewer_amd64.deb
+  199  2020-05-05 18:10:40 git clone git@github.com:BuildForSDG/Team-174-Product.git
+  200  2020-05-05 18:14:31 cd Team-174-Product/
+  201  2020-05-05 18:14:40 code .
+  202  2020-05-05 18:23:55 cd /media/revgeek/Data/projects/
+  203  2020-05-05 18:24:05 cd WashMeApp/
+  204  2020-05-05 18:24:30 code .
+  205  2020-05-05 19:48:58 source /media/revgeek/Data/projects/WashMeApp/venv/bin/activate
+  206  2020-05-05 19:49:34 git pull origin api-branch 
+  207  2020-05-05 19:51:28 ping github.com
+  208  2020-05-05 19:51:50 ping google.com
+  209  2020-05-05 19:52:20 ping google.com
+  210  2020-05-05 19:52:39 git pull origin api-branch 
+  211  2020-05-05 19:54:08 ping github.com
+  212  2020-05-05 19:54:52 git pull origin api-branch 
+  213  2020-05-05 20:20:58 git status
+  214  2020-05-05 20:26:22 git checkout -b animals-endpoints
+  215  2020-05-05 20:26:51 cd src/
+  216  2020-05-05 20:26:55 cd server/
+  217  2020-05-05 20:29:26 cd ..
+  218  2020-05-05 20:29:47 vim package.json
+  219  2020-05-05 20:31:16 yarn install
+  220  2020-05-05 21:14:00 cd ..
+  221  2020-05-05 21:14:28 cd likuyani-catholic
+  222  2020-05-05 21:14:45 cd Likuyani-Catholic
+  223  2020-05-05 21:19:50 touch cloudbuild.yaml
+  224  2020-05-05 21:20:38 code .
+  225  2020-05-05 21:40:57 git branch
+  226  2020-05-05 21:41:45 git checkout -b contious-deployment
+  227  2020-05-05 21:41:50 git status
+  228  2020-05-05 21:42:01 git add .
+  229  2020-05-05 21:42:37 git commit -m 'Add a cloudbuild.yaml file for gcp deployments.'
+  230  2020-05-05 21:43:38 git commit -m 'Add a cloudbuild.yaml file for gcp deployments.' --no-verify
+  231  2020-05-05 21:43:49 git push origin contious-deployment 
+  232  2020-05-05 21:50:28 git status
+  233  2020-05-05 21:50:35 git add .
+  234  2020-05-05 21:51:57 git commit -m 'Add config to ensure that node version is user defined.'
+  235  2020-05-05 21:52:18 git commit -m 'Add config to ensure that node version is user defined.' --no-verify
+  236  2020-05-05 21:52:28 git push origin contious-deployment 
+  237  2020-05-05 22:19:12 gcloud builds submit --config cloudbuild.yaml .
+  238  2020-05-05 22:29:09 git status
+  239  2020-05-05 22:29:16 git add .
+  240  2020-05-05 22:29:44 git commit -m 'remove the test section.'
+  241  2020-05-05 22:29:54 git commit -m 'remove the test section.' --no-verify
+  242  2020-05-05 22:30:02 git push origin contious-deployment 
+  243  2020-05-05 22:31:25 git checkout master 
+  244  2020-05-05 22:47:29 git pull origin master
+  245  2020-05-05 23:03:27 gcloud builds submit --config cloudbuild.yaml .
+  246  2020-05-05 23:04:58 git status
+  247  2020-05-05 23:05:08 git add .
+  248  2020-05-05 23:05:48 git commit -m 'reconfigure cloudbuild file.'
+  249  2020-05-05 23:05:57 git commit -m 'reconfigure cloudbuild file.' --no-verify
+  250  2020-05-05 23:06:06 git push origin master
+  251  2020-05-05 23:09:55 gcloud builds submit --config cloudbuild.yaml .
+  252  2020-05-06 20:27:13 npm start
+  253  2020-05-06 20:28:23 git status
+  254  2020-05-06 20:28:28 git add .
+  255  2020-05-06 20:28:37 git push origin master
+  256  2020-05-06 20:29:20 git pull
+  257  2020-05-06 20:29:46 git pull origin master
+  258  2020-05-06 20:30:25 git status
+  259  2020-05-06 20:31:14 git commit -m 'removed unneeded links.'
+  260  2020-05-06 20:31:30 git commit -m 'removed unneeded links.' --no-verify
+  261  2020-05-06 20:31:38 git push origin master
+  262  2020-05-06 20:32:00 git push
+  263  2020-05-06 20:47:27 git branch
+  264  2020-05-06 20:47:57 git checkout contious-deployment 
+  265  2020-05-07 18:50:42 cd ..
+  266  2020-05-07 18:51:48 cd opensource/
+  267  2020-05-07 18:51:55 cd Team-174-Product/
+  268  2020-05-07 18:52:14 code .
+  269  2020-05-07 18:52:33 npm i
+  270  2020-05-07 19:22:46 git pull origin develop
+  271  2020-05-07 19:24:14 cd src/
+  272  2020-05-07 19:24:26 cd client/
+  273  2020-05-07 19:24:37 npm i
+  274  2020-05-07 19:37:47 npm start
+  275  2020-05-07 19:40:42 npm i
+  276  2020-05-07 19:41:29 nclear
+  277  2020-05-07 19:41:35 npm start
+  278  2020-05-07 19:43:28 touch .env
+  279  2020-05-07 19:58:09 clea
+  280  2020-05-07 19:58:13 cd ..
+  281  2020-05-07 19:58:17 cd server/
+  282  2020-05-07 19:58:34 cd ..
+  283  2020-05-07 19:58:48 cler
+  284  2020-05-07 19:59:49 nodemon run
+  285  2020-05-07 19:59:53 nodemon
+  286  2020-05-07 20:00:14 nodemon ./src/server/app.js 
+  287  2020-05-07 20:01:01 npm ./src/server/app.js 
+  288  2020-05-07 20:01:28 npm start
+  289  2020-05-07 20:01:41 npm start ./src/server/app.js 
+  290  2020-05-07 20:02:05 npm server
+  291  2020-05-07 20:02:27 node start ./src/server/app.js 
+  292  2020-05-07 20:02:50 node run ./src/server/app.js 
+  293  2020-05-07 20:03:03 node ./src/server/app.js 
+  294  2020-05-07 20:07:44 npm server
+  295  2020-05-07 20:09:45 node ./src/server/app.js 
+  296  2020-05-07 20:10:35 npm run start
+  297  2020-05-07 20:11:26 npm run client
+  298  2020-05-07 21:40:46 git status
+  299  2020-05-07 21:41:04 git add .
+  300  2020-05-07 21:41:59 git commit -m 'Add routes Error handler i.e 404 and 500 and url monitor'
+  301  2020-05-07 21:57:52 cd /media/revgeek/Data/
+  302  2020-05-07 21:57:56 cd seba_data/
+  303  2020-05-08 00:44:03 npm i body-parser
+  304  2020-05-07 21:58:04 less Passwds.txt 
+  305  2020-05-08 20:29:57 vim Passwds.txt 
+  306  2020-05-07 20:10:50 npm run server
+  307  2020-05-08 20:31:25 less Passwds.txt 
+  308  2020-05-08 21:25:33 cd ..
+  309  2020-05-08 21:25:43 cd heco/
+  310  2020-05-08 21:26:18 vim README.old.md 
+  311  2020-05-08 21:26:46 rm rf README.old.md 
+  312  2020-05-08 21:26:55 cd src/
+  313  2020-05-08 21:27:24 cd ..
+  314  2020-05-08 21:27:37 code .
+  315  2020-05-08 21:30:07 sudo shutdown -r now
+  316  2020-05-08 21:38:55 cd /media/
+  317  2020-05-08 21:39:36 cd /revgeek/
+  318  2020-05-08 21:40:01 cd /media/revgeek/Data/projects/heco/
+  319  2020-05-08 21:44:21 tree .
+  320  2020-05-08 21:44:33 tree
+  321  2020-05-08 21:44:41 code .
+  322  2020-05-08 21:57:33 npm init
+  323  2020-05-08 22:01:04 CLEAR
+  324  2020-05-08 22:01:33 cd src/
+  325  2020-05-08 22:01:51 npx create-react-app client
+  326  2020-05-08 22:49:03 git status
+  327  2020-05-08 22:49:16 git add .
+  328  2020-05-08 22:49:53 git commit -m 'Make changes to project structure for the back and front end respectively.'
+  329  2020-05-08 22:50:04 git push origin initiate-app 
+  330  2020-05-08 22:51:26 cd ..
+  331  2020-05-08 22:55:13 npm i express
+  332  2020-05-08 23:13:30 npm install
+  333  2020-05-08 23:17:21 git status
+  334  2020-05-08 23:17:24 git add .
+  335  2020-05-08 23:18:13 git commit -m 'Successfully added the a working boiler plate withthe needed dependencies.'
+  336  2020-05-08 23:18:23 git push origin initiate-app 
+  337  2020-05-08 23:16:39 npm run server
+  338  2020-05-08 23:38:55 npm install concurrently
+  339  2020-05-08 23:41:06 npm install body-parser
+  340  2020-05-09 00:40:08 git status
+  341  2020-05-09 00:40:18 git diff
+  342  2020-05-09 00:41:14 git add .
+  343  2020-05-09 00:41:49 git commit -m 'Add additional packages and changed the port number'
+  344  2020-05-09 00:41:59 git push origin initiate-app 
+  345  2020-05-09 00:56:32 cd ..
+  346  2020-05-09 00:56:40 cd opensource/
+  347  2020-05-09 00:56:47 cd Team-174-Product/
+  348  2020-05-09 00:56:54 code .
+  349  2020-05-09 01:14:14 sudo apt update
+  350  2020-05-09 01:17:02 cd Downloads/
+  351  2020-05-09 01:19:27 sudo dpkg -i zoom_amd64.deb 
+  352  2020-05-09 01:22:01 sudo dpkg -i teamviewer_amd64.deb 
+  353  2020-05-09 01:22:44 sudo dpkg -remove teamviewer_amd64.deb 
+  354  2020-05-09 01:23:22 sudo apt remove teamviewer 
+  355  2020-05-09 01:24:12 wget https://downloads.mongodb.com/compass/mongodb-compass_1.15.1_amd64.deb
+  356  2020-05-09 01:56:57 sudo dpkg -i mongodb-compass_1.15.1_amd64.deb 
+  357  2020-05-09 02:00:27 mongodb-compass 
+  358  2020-05-09 02:07:58 npm i mongodb
+  359  2020-05-09 02:37:42 sudo apt remove mongodb-compass 
+  360  2020-05-09 02:48:56 npm install dotenv
+  361  2020-05-09 02:45:08 npm run server
+  362  2020-05-10 05:24:39 sudo apt update
+  363  2020-05-10 05:33:06 sudo apt upgrade
+  364  2020-05-10 06:42:55 sudo apt update --fix-missing
+  365  2020-05-11 00:18:42 cd ..
+  366  2020-05-11 00:18:56 cd seba_data/
+  367  2020-05-11 00:19:04 less Passwds.txt 
+  368  2020-05-13 23:19:25 cd /media/
+  369  2020-05-13 23:19:30 cd revgeek/
+  370  2020-05-13 23:19:35 cd Data/
+  371  2020-05-13 23:31:07 cd cd projects/
+  372  2020-05-13 23:31:31 cd projects/
+  373  2020-05-13 23:31:46 cd Likuyani-Catholic
+  374  2020-05-13 23:33:05 code .
+  375  2020-05-13 23:49:08 git status
+  376  2020-05-13 23:49:21 git add .
+  377  2020-05-13 23:49:59 git commit -m 'Code cleanup of all commented out code.' --no-verify
+  378  2020-05-13 23:50:16 git push origin contious-deployment 
+  379  2020-05-13 23:39:45 npm start
+  380  2020-05-14 07:57:22 sudo shutdown -r now
+  381  2020-05-14 08:05:50 cd /media/revgeek/Data/
+  382  2020-05-14 08:05:59 cd hackwaks/
+  383  2020-05-14 08:06:17 C
+  384  2020-05-14 08:06:31 C_programming/
+  385  2020-05-14 08:06:52 cd C_Programming/
+  386  2020-05-14 08:32:57 sudo apt update
+  387  2020-05-14 08:34:28 sudo apt intall tmux
+  388  2020-05-14 08:34:38 sudo apt install tmux
+  389  2020-05-15 16:23:56 code .
+  390  2020-05-15 16:24:33 cd /media/
+  391  2020-05-15 16:24:36 cd revgeek/
+  392  2020-05-15 16:24:41 cd Data/
+  393  2020-05-15 16:24:57 cd hackwaks/
+  394  2020-05-15 16:25:03 cd algorithms/
+  395  2020-05-15 16:25:07 cd Algorithms-tuts/
+  396  2020-05-15 16:25:33 binaryexercise1.py
+  397  2020-05-15 16:25:41 code .
+  398  2020-05-15 16:28:11 cd binary/
+  399  2020-05-15 16:28:20 python3 exercise1.py 
+  400  2020-05-15 17:34:53 git statatus
+  401  2020-05-15 17:34:58 git status
+  402  2020-05-15 17:35:02 git add .
+  403  2020-05-15 17:35:44 git commit -m 'Add one cool exercise on Data structures and binary string computation.'
+  404  2020-05-15 17:45:28 git status
+  405  2020-05-15 17:45:37 git push origin sorting-algos 
+  406  2020-05-15 22:49:47 code .
+  407  2020-05-16 20:20:05 sudo systemctl bluetooth start
+  408  2020-05-16 20:20:18 bluetooth
+  409  2020-05-16 20:20:31 sudo apt update
+  410  2020-05-16 20:21:53 service bluetooth status
+  411  2020-05-16 20:22:12 service bluetooth start
+  412  2020-05-16 20:22:30 service bluetooth status
+  413  2020-05-16 20:25:11 service bluetooth restart
+  414  2020-05-16 20:25:22 service bluetooth status
+  415  2020-05-16 20:29:40 cd ~
+  416  2020-05-16 20:29:52 where etc
+  417  2020-05-16 20:30:00 which /etc
+  418  2020-05-16 20:30:05 cd /etc/
+  419  2020-05-16 20:30:08 cd ..
+  420  2020-05-16 20:30:31 /etc/init.d/bluetooth start
+  421  2020-05-16 20:31:07 service bluetooth status
+  422  2020-05-16 20:36:41 touch bt
+  423  2020-05-16 20:36:51 sudo touch bt
+  424  2020-05-16 20:37:02 vim bt
+  425  2020-05-16 20:40:23 notepad bt
+  426  2020-05-14 08:07:08 vim word-count.c 
+  427  2020-05-18 06:00:36 touch upgrade-missing-firmware.txt
+  428  2020-05-16 20:42:00 sudo su
+  429  2020-05-18 06:02:00 sudo shutdown -r now
+  430  2020-05-18 22:08:37 cd /media/revgeek/Data/
+  431  2020-05-18 22:08:42 cd hackwaks/
+  432  2020-05-18 22:08:47 cd algorithms/
+  433  2020-05-18 22:08:55 cd Algorithms-tuts/
+  434  2020-05-18 22:09:09 code .
+  435  2020-05-18 23:10:55 cd sorting-algos/
+  436  2020-05-18 23:11:05 python3 bubble_sort.py 
+  437  2020-05-18 23:14:07 cd ..
+  438  2020-05-18 23:14:13 git status
+  439  2020-05-18 23:14:22 git add .
+  440  2020-05-18 23:14:34 git commit -m 'Add bubble sort.'
+  441  2020-05-18 23:14:57 git push origin sorting-algos 
+  442  2020-05-18 23:27:57 git status
+  443  2020-05-18 23:28:10 cd sorting-algos/
+  444  2020-05-18 23:28:18 python3 selection_sort.py 
+  445  2020-05-18 23:30:32 git add .
+  446  2020-05-18 23:30:37 cd ..
+  447  2020-05-18 23:30:40 git status
+  448  2020-05-18 23:30:52 git add .
+  449  2020-05-18 23:30:54 git status
+  450  2020-05-18 23:31:20 git commit -m 'Add selection sort algorithm.'
+  451  2020-05-18 23:31:34 git push origin sorting-algos 
+  452  2020-05-18 23:56:02 cd sorting-algos/
+  453  2020-05-18 23:56:15 python3 merge_sort.py 
+  454  2020-05-18 23:56:58 git status
+  455  2020-05-18 23:57:01 cd ..
+  456  2020-05-18 23:57:08 cd -
+  457  2020-05-18 23:57:14 git status
+  458  2020-05-18 23:57:23 git add
+  459  2020-05-18 23:57:28 git add .
+  460  2020-05-18 23:57:55 git commit -m 'Add merge sort algorithm.'
+  461  2020-05-18 23:58:12 git push origin sorting-algos 
+  462  2020-05-19 10:09:09 cd ..
+  463  2020-05-19 10:12:14 sudo su
+  464  2020-05-19 10:13:42 sudo chmod +x bashing/
+  465  2020-05-19 10:13:58 ls -al
+  466  2020-05-19 10:14:31 chmod +x bashing/
+  467  2020-05-20 23:32:34 cd -
+  468  2020-05-20 23:32:40 cd bashing/
+  469  2020-05-20 23:33:31 git clone https://github.com/SebastianOpiyo/bash-scripting.git
+  470  2020-05-20 23:33:58 git clone git@github.com:SebastianOpiyo/bash-scripting.git
+  471  2020-05-20 23:34:22 git clone https://github.com/SebastianOpiyo/bash-scripting.git
+  472  2020-05-20 23:36:50 cd ..
+  473  2020-05-20 23:36:53 ls -l
+  474  2020-05-20 23:37:32 sudo chown - R revgeek bashing/
+  475  2020-05-20 23:37:48 sudo chown - R doka bashing/
+  476  2020-05-20 23:39:02 sudo chown - R **revgeek** bashing/
+  477  2020-05-20 23:39:13 sudo chown - R 'revgeek' bashing/
+  478  2020-05-20 23:39:26 sudo chown - R revgeek bashing/
+  479  2020-05-20 23:39:39 sudo rm -rf bashing/
+  480  2020-05-20 23:40:00 mkdir all-bashing
+  481  2020-05-20 23:40:05 cd all-bashing/
+  482  2020-05-20 23:40:35 git clone git@github.com:SebastianOpiyo/bash-scripting.git
+  483  2020-05-20 23:43:10 code .
+  484  2020-05-20 23:43:49 cd bash-scripting/
+  485  2020-05-20 23:46:16 code .
+  486  2020-05-20 23:49:04 git add .
+  487  2020-05-20 23:49:27 git checkout -b bashIntro
+  488  2020-05-20 23:49:31 git status
+  489  2020-05-20 23:49:48 git commit -m 'Initialize readme.'
+  490  2020-05-20 23:49:58 git push origin bashIntro 
+  491  2020-05-21 00:23:51 echo $0
+  492  2020-05-21 00:24:04 cat etc/passwd
+  493  2020-05-21 00:24:16 cat /etc/passwd
+  494  2020-05-21 00:25:58 cat /etc/shells
+  495  2020-05-21 00:42:28 sh
+  496  2020-05-21 00:42:51 csh
+  497  2020-05-21 00:43:04 ksh
+  498  2020-05-21 00:43:40 cat /etc/shells
+  499  2020-05-21 00:43:44 dash
+  500  2020-05-30 18:26:55 exit 
+  501  2020-05-21 00:44:14 tmux
+  502  2020-05-21 00:44:39 clee
+  503  2020-05-21 00:44:50 echo $0
+  504  2020-05-21 00:55:09 git status
+  505  2020-05-21 00:55:14 git add .
+  506  2020-05-21 00:55:35 git commit -m 'Done with intro.'
+  507  2020-05-21 00:55:47 git push origin bashIntro 
+  508  2020-05-21 00:56:35 git checkout -b scripting-standards
+  509  2020-05-21 01:21:53 cd scripts/
+  510  2020-05-21 01:22:00 ls -alt
+  511  2020-05-21 01:22:26 chmod a+x hello-world.bash 
+  512  2020-05-21 01:22:33 chmod a+x hello-world.sh 
+  513  2020-05-21 01:22:42 ls -alt
+  514  2020-05-21 01:22:57 hello-world.sh 
+  515  2020-05-21 01:23:18 hello-world.bash
+  516  2020-05-21 01:23:52 ./hello-world.bash
+  517  2020-05-21 01:24:14 ./hello-world.sh
+  518  2020-05-21 01:24:48 cd ..
+  519  2020-05-21 01:24:52 git status
+  520  2020-05-21 01:24:56 git add .
+  521  2020-05-21 01:25:23 git commit -m 'Add hello world scripts'
+  522  2020-05-21 01:25:33 git push origin scripting-standards 
+  523  2020-05-21 01:39:16 cd scripts/
+  524  2020-05-21 01:39:30 vim hello-world.bash 
+  525  2020-05-21 01:51:01 ./hello-world.bash 
+  526  2020-05-21 01:51:31 cd ..
+  527  2020-05-21 01:51:35 git status
+  528  2020-05-21 01:51:39 git add .
+  529  2020-05-21 01:57:04 git status
+  530  2020-05-21 01:57:15 git add .
+  531  2020-05-21 01:57:21 git status
+  532  2020-05-21 01:57:49 git commit -m 'Add scripting standards.'
+  533  2020-05-21 01:58:07 git push origin scripting-standards 
+  534  2020-05-21 14:22:58 cd ..
+  535  2020-05-21 14:23:13 cd work/
+  536  2020-05-21 14:23:36 cd pyexercises/
+  537  2020-05-21 14:24:02 mkdir client-work
+  538  2020-05-21 14:24:05 cd client-work/
+  539  2020-05-21 14:24:12 code .
+  540  2020-05-21 15:19:35 python3 cs3a_assignment.py 
+  541  2020-05-21 22:36:08 python3
+  542  2020-05-21 23:08:53 python3 -m unittest test_cs3a_assignment.py 
+  543  2020-05-21 23:09:27 python3 -m unittest ./test_cs3a_assignment.py 
+  544  2020-05-21 23:10:06 python3 -m unittest . test_cs3a_assignment.py 
+  545  2020-05-21 23:10:12 python3 -m unittest test_cs3a_assignment.py 
+  546  2020-05-21 23:57:07 python3 cs3a_assignment.py 
+  547  2020-05-21 23:59:09 python3 -m unittest test_cs3a_assignment.py 
+  548  2020-05-22 11:12:53 claer
+  549  2020-05-22 11:12:58 python3 -m unittest test_cs3a_assignment.py 
+  550  2020-05-22 12:36:01 claer
+  551  2020-05-22 12:36:08 python3 -m unittest test_cs3a_assignment.py 
+  552  2020-05-22 12:58:51 python3 cs3a_assignment.py 
+  553  2020-05-22 13:06:11 python3 -m unittest test_cs3a_assignment.py 
+  554  2020-05-22 13:15:46 python3 cs3a_assignment.py 
+  555  2020-05-22 13:22:26 python3 -m unittest test_cs3a_assignment.py 
+  556  2020-05-22 13:23:05 python3 -m unittest -v test_cs3a_assignment.py 
+  557  2020-05-22 13:33:16 python3 cs3a_assignment.py 
+  558  2020-05-21 00:44:56 bash
+  559  2020-05-21 00:43:13 rbash
+  560  2020-05-22 20:23:25 cd ..
+  561  2020-05-22 20:23:31 pwd
+  562  2020-05-22 20:23:43 cd all-bashing/
+  563  2020-05-22 20:24:31 code .
+  564  2020-05-22 21:12:11 cd bash-scripting/
+  565  2020-05-22 21:12:22 cd scripts/
+  566  2020-05-22 21:12:38 ./hello-world.bash 
+  567  2020-05-22 21:14:02 cd ..
+  568  2020-05-22 21:14:07 git status
+  569  2020-05-22 21:14:11 git add .
+  570  2020-05-22 21:14:26 git commit -m 'Clean up'
+  571  2020-05-22 21:14:35 git push origin scripting-standards 
+  572  2020-05-22 21:15:17 ls -alt
+  573  2020-05-22 21:15:48 git push origin scripting-standards 
+  574  2020-05-22 21:16:04 ping github.com
+  575  2020-05-22 21:16:41 git push origin scripting-standards 
+  576  2020-05-22 21:17:42 cd bash-scripting/
+  577  2020-05-22 21:17:52 cd scripts/
+  578  2020-05-22 22:04:44 whoami
+  579  2020-05-22 22:04:49 pwd
+  580  2020-05-22 21:18:04 vim basic_task_script 
+  581  2020-05-22 22:23:47 ./basic_task_script
+  582  2020-05-22 22:23:58 ls -alt
+  583  2020-05-22 22:24:14 chmod a+x basic_task_script 
+  584  2020-05-22 22:24:18 ls -alt
+  585  2020-05-22 22:24:31 basic_task_script 
+  586  2020-05-22 22:24:38 ./basic_task_script 
+  587  2020-05-22 22:27:25 cd ..
+  588  2020-05-22 22:27:28 git status
+  589  2020-05-22 22:27:34 git add .
+  590  2020-05-22 22:27:39 git status
+  591  2020-05-22 22:28:08 git commit -m 'Add working basic tasks script.'
+  592  2020-05-22 22:28:20 git push origin scripting-standards 
+  593  2020-05-22 22:28:56 cd scripts/
+  594  2020-05-22 22:31:27 git checkout -b real-scripting
+  595  2020-05-22 23:52:44 touch basic_admin_script
+  596  2020-05-22 23:52:58 vim basic_admin_script 
+  597  2020-05-23 00:06:46 ls -al
+  598  2020-05-23 00:07:08 chmod a+x basic_admin_script 
+  599  2020-05-23 00:07:11 ls -alt
+  600  2020-05-23 00:07:22 ./basic_admin_script 
+  601  2020-05-23 00:11:33 kill 27465
+  602  2020-05-23 00:12:59 kill 2219
+  603  2020-05-23 00:14:18 kill 7371
+  604  2020-05-23 00:17:21 vim basic_admin_script 
+  605  2020-05-23 00:17:57 ./basic_admin_script 
+  606  2020-05-23 00:20:22 vim basic_admin_script 
+  607  2020-05-23 00:21:18 ./basic_admin_script 
+  608  2020-05-23 00:21:33 vim basic_admin_script 
+  609  2020-05-23 00:22:17 ./basic_admin_script 
+  610  2020-05-23 00:25:18 vim basic_admin_script 
+  611  2020-05-23 00:25:38 ./basic_admin_script 
+  612  2020-05-23 00:29:14 kill 98929
+  613  2020-05-23 00:08:03 htop
+  614  2020-05-23 00:29:48 kill 99598
+  615  2020-05-23 00:30:39 kill 15285
+  616  2020-05-23 00:34:05 w
+  617  2020-05-23 00:35:07 man w
+  618  2020-05-23 00:38:24 cd ..
+  619  2020-05-23 00:38:28 git status
+  620  2020-05-23 00:38:31 git add .
+  621  2020-05-23 00:38:53 git commit -m 'Add basic adminstrative script.'
+  622  2020-05-23 00:39:17 git push origin real-scripting 
+  623  2020-05-23 00:40:33 cd scripts/
+  624  2020-05-23 00:41:05 touch using_variables
+  625  2020-05-23 00:41:10 vim using_variables 
+  626  2020-05-23 01:01:07 ls -alt
+  627  2020-05-23 01:01:20 chmod a+x using_variables 
+  628  2020-05-23 01:01:24 ls -alt
+  629  2020-05-23 01:01:34 ./using_variables 
+  630  2020-05-23 01:04:13 vim using_variables 
+  631  2020-05-23 01:04:43 git status
+  632  2020-05-23 01:04:46 cd ..
+  633  2020-05-23 01:04:51 git add .
+  634  2020-05-23 01:04:56 git status
+  635  2020-05-23 01:28:58 git commit -m 'Add variables.'
+  636  2020-05-23 01:29:12 git push origin real-scripting 
+  637  2020-05-23 15:01:47 code .
+  638  2020-05-23 15:02:26 python3 cs3a_assignment.py 
+  639  2020-05-23 15:41:35 python3 CS3A_Assignment.py
+  640  2020-05-23 15:56:19 /usr/bin/python3 /media/revgeek/Data/hackwaks/work/pyexercises/client-work/CS3A_Assignment.py
+  641  2020-05-23 16:22:15 pwd
+  642  2020-05-23 16:22:32 python3 CS3A_Assignment.py
+  643  2020-05-23 16:41:12 cleae
+  644  2020-05-23 16:41:21 python3 CS3A_Assignment.py
+  645  2020-05-23 16:56:50 c;ear
+  646  2020-05-23 16:57:00 python3 CS3A_Assignment.py
+  647  2020-05-23 18:04:13 clea
+  648  2020-05-23 18:04:17 python3 CS3A_Assignment.py
+  649  2020-05-23 18:07:40 python3
+  650  2020-05-23 18:12:38 python3 CS3A_Assignment.py
+  651  2020-05-23 19:01:19 python3
+  652  2020-05-23 19:04:12 python3 CS3A_Assignment.py
+  653  2020-05-23 19:50:57 python3 cs3a_assignment.py
+  654  2020-05-23 20:00:30 python3 CS3A_Assignment.py
+  655  2020-05-23 20:13:45 python3 test_cs3a_assignment.py 
+  656  2020-05-23 20:15:59 python3 CS3A_Assignment.py
+  657  2020-05-23 20:37:13 python3 test_cs3a_assignment.py 
+  658  2020-05-23 20:37:33 python3 -m -v test_cs3a_assignment.py 
+  659  2020-05-23 20:38:28 python3 -m unittest -v test_cs3a_assignment.py 
+  660  2020-05-23 21:05:48 python3 CS3A_Assignment.py
+  661  2020-05-24 10:19:47 cd scripts/
+  662  2020-05-24 10:28:28 vim io_script
+  663  2020-05-24 10:36:54 chmod a+x io_script 
+  664  2020-05-24 10:37:00 ls -alt
+  665  2020-05-24 10:37:12 ./io_script 
+  666  2020-05-24 10:38:12 vim io_script
+  667  2020-05-24 10:39:15 ./io_script 
+  668  2020-05-24 10:39:41 hostname
+  669  2020-05-24 10:40:22 vim io_script
+  670  2020-05-24 10:42:01 ./io_script 
+  671  2020-05-24 10:42:18 vim io_script
+  672  2020-05-24 10:51:55 vim ifelse-script
+  673  2020-05-24 13:13:28 chmod a+x ifelse-script 
+  674  2020-05-24 13:13:33 ls -alt
+  675  2020-05-24 13:13:48 ./ifelse-script 
+  676  2020-05-24 10:52:07 vim io_script 
+  677  2020-05-24 13:20:20 pwd
+  678  2020-05-24 13:18:03 vim ifelse-script2
+  679  2020-05-24 13:23:54 chmod a+x ifelse-script2
+  680  2020-05-24 13:24:04 ./ifelse-script2
+  681  2020-05-24 13:25:49 touch scripty
+  682  2020-05-24 13:24:42 vim ifelse-script2
+  683  2020-05-24 13:26:37 ./ifelse-script2
+  684  2020-05-24 13:27:08 vim ifelse-script2
+  685  2020-05-24 13:29:59 ./ifelse-script2
+  686  2020-05-24 13:32:03 vim ifelse-script2
+  687  2020-05-24 13:32:20 ./ifelse-script2
+  688  2020-05-24 13:36:10 cd ..
+  689  2020-05-24 13:36:18 git status
+  690  2020-05-24 13:36:35 git add .
+  691  2020-05-24 13:37:05 git commit -m 'Implemented the if else statements.'
+  692  2020-05-24 13:37:21 git push origin real-scripting 
+  693  2020-05-24 18:15:34 python3 CS3A_Assignment.py 
+  694  2020-05-25 01:34:45 ping google.com
+  695  2020-05-25 01:39:53 cd scripts/
+  696  2020-05-25 01:44:27 ping google.com
+  697  2020-05-25 01:45:14 vim case_scripts
+  698  2020-05-25 01:53:07 chmod a+x case_scripts 
+  699  2020-05-25 01:53:12 ls -alt
+  700  2020-05-25 01:53:36 ./case_scripts 
+  701  2020-05-25 01:55:43 ping google.com
+  702  2020-05-25 02:30:33 vim forloop_script
+  703  2020-05-25 02:35:43 chmod a+x forloop_script 
+  704  2020-05-25 02:35:47 ./for
+  705  2020-05-25 02:35:53 ./forloop_script 
+  706  2020-05-25 02:36:15 vim forloop_script
+  707  2020-05-25 02:37:25 ./forloop_script 
+  708  2020-05-25 02:37:42 vim forloop_script
+  709  2020-05-25 02:48:33 vim do-while-script
+  710  2020-05-25 02:55:02 chmod a+x do-while-script
+  711  2020-05-25 02:55:13 ./do-while-script
+  712  2020-05-25 02:55:46 vim do-while-script
+  713  2020-05-25 02:56:45 ./do-while-script
+  714  2020-05-25 03:01:30 echo $?
+  715  2020-05-25 03:01:40 sl
+  716  2020-05-25 03:01:43 echo $?
+  717  2020-05-25 03:10:03 man error code
+  718  2020-05-25 03:11:32 man code
+  719  2020-05-25 03:11:42 man error
+  720  2020-05-25 03:11:59 man status
+  721  2020-05-25 03:12:19 man error status codes
+  722  2020-05-25 03:14:28 pwd
+  723  2020-05-25 03:08:03 vim error_response_scripts
+  724  2020-05-25 03:17:00 chmod a+x error_response_scripts 
+  725  2020-05-25 03:17:10 ./error_response_scripts
+  726  2020-05-25 03:17:30 vim error_response_scripts
+  727  2020-05-25 03:17:52 ./error_response_scripts
+  728  2020-05-25 03:18:05 vim error_response_scripts
+  729  2020-05-25 03:18:28 ./error_response_scripts
+  730  2020-05-25 03:20:55 ping google.com
+  731  2020-05-25 03:21:36 cd ..
+  732  2020-05-25 03:22:12 mkdir real-life-scripts
+  733  2020-05-25 03:22:17 cd real-life-scripts/
+  734  2020-05-25 03:45:19 ping google.com
+  735  2020-05-25 21:26:51 cd ..
+  736  2020-05-25 21:26:55 git status
+  737  2020-05-25 21:27:05 git add .
+  738  2020-05-25 21:27:39 git commit -m 'Add sripts for case, do-while, for loop and error response.'
+  739  2020-05-25 21:27:54 git push origin  real-scripting 
+  740  2020-05-25 21:30:43 ping google.com
+  741  2020-05-25 21:30:51 git push origin  real-scripting 
+  742  2020-05-26 14:15:57 git checkout -b test-two
+  743  2020-05-26 14:16:01 git status
+  744  2020-05-26 14:16:05 git add .
+  745  2020-05-26 14:16:29 git commit -m 'Add another test module with tdd'
+  746  2020-05-26 14:16:41 git push origin test-two 
+  747  2020-05-26 14:17:13 ping github.com
+  748  2020-05-26 14:17:59 git push origin test-two 
+  749  2020-05-26 14:24:23 sudo shutdown -r now
+  750  2020-05-27 14:24:28 code .
+  751  2020-05-27 14:31:45 git status
+  752  2020-05-27 14:32:08 git checkout -b arrays
+  753  2020-05-27 21:27:53 cd ..
+  754  2020-05-27 21:28:08 cd projects/
+  755  2020-05-27 21:29:10 cd likuyani-catholic-church/
+  756  2020-05-27 21:29:20 cd ..
+  757  2020-05-27 21:29:29 cd Likuyani-Catholic
+  758  2020-05-27 21:39:49 code .
+  759  2020-05-27 21:58:52 git status
+  760  2020-05-27 21:59:00 git add .
+  761  2020-05-27 21:59:31 git commit -m 'Add correct contact info.' --no-verify
+  762  2020-05-27 21:59:44 git push origin contious-deployment 
+  763  2020-05-27 22:05:44 git status
+  764  2020-05-27 22:05:49 git add .
+  765  2020-05-27 22:06:39 git commit -m 'Fix bug in package.jaos for running code in production.'
+  766  2020-05-27 22:06:51 git commit -m 'Fix bug in package.jaos for running code in production.' --no-verify
+  767  2020-05-27 22:07:09 git push origin contious-deployment 
+  768  2020-05-27 22:08:17 ping github.com
+  769  2020-05-27 22:08:32 git push origin contious-deployment 
+  770  2020-05-27 22:38:58 git add .
+  771  2020-05-27 22:39:48 git commit -m 'Fix next build issue not running on cloud build.' --no-verify
+  772  2020-05-27 22:40:03 git push origin contious-deployment 
+  773  2020-05-27 23:35:38 git status
+  774  2020-05-27 23:35:45 git add . 
+  775  2020-05-27 23:36:29 git commit -m 'Edit contents of .gcloudignore that might be hindering successful deployment.'
+  776  2020-05-27 23:36:45 git commit -m 'Edit contents of .gcloudignore that might be hindering successful deployment.' --no-verification
+  777  2020-05-27 23:36:53 git commit -m 'Edit contents of .gcloudignore that might be hindering successful deployment.' --no-verify
+  778  2020-05-27 23:37:10 git push origin  contious-deployment 
+  779  2020-05-28 12:26:03 ping google.com
+  780  2020-05-28 12:26:20 cd ..
+  781  2020-05-28 12:26:32 cd hackwaks/
+  782  2020-05-28 12:26:46 cd all-bashing/
+  783  2020-05-28 12:26:52 cd bash-scripting/
+  784  2020-05-28 12:27:08 cd real-life-scripts/
+  785  2020-05-27 21:41:10 npm start
+  786  2020-05-28 12:38:26 whoami
+  787  2020-05-28 12:38:30 pwd
+  788  2020-05-28 12:38:49 su -
+  789  2020-05-28 12:39:25 whoami
+  790  2020-05-28 12:39:56 cp /var/log/messages .
+  791  2020-05-28 12:40:11 sudo su
+  792  2020-05-28 12:46:52 ls -alt
+  793  2020-05-28 12:46:57 cat messages 
+  794  2020-05-27 21:54:49 htop
+  795  2020-05-28 12:51:06 man grep
+  796  2020-05-28 13:00:30 pwd
+  797  2020-05-28 13:00:46 pwd
+  798  2020-05-28 12:47:46 vim pull-data
+  799  2020-05-28 13:01:36 chmod a+x pull-data 
+  800  2020-05-28 13:02:00 ls -ltr
+  801  2020-05-28 13:02:23 ./pull-data 
+  802  2020-05-28 13:03:03 vim pull-data
+  803  2020-05-28 13:03:56 ./pull-data 
+  804  2020-05-28 13:19:27 mv pull-data pull-errors
+  805  2020-05-28 13:19:33 ./pull-errors 
+  806  2020-05-28 13:20:35 cp pull-errors pull-warn
+  807  2020-05-28 13:20:46 vim pull-warn 
+  808  2020-05-28 13:21:58 ./pull-warn 
+  809  2020-05-28 13:24:11 lear
+  810  2020-05-28 13:25:38 cp pull-errors pull-fail
+  811  2020-05-28 13:25:46 vim pull-fail 
+  812  2020-05-28 13:26:12 ./pull-fail
+  813  2020-05-28 13:28:07 clea
+  814  2020-05-28 13:28:14 vim pull-fail 
+  815  2020-05-28 13:28:55 ./pull-fail
+  816  2020-05-28 13:29:05 vim pull-fail 
+  817  2020-05-28 13:29:43 ./pull-fail
+  818  2020-05-28 13:30:00 cat output-failmessages 
+  819  2020-05-28 13:31:16 vim pull-errors 
+  820  2020-05-28 13:31:57 vim pull-warn 
+  821  2020-05-28 13:38:05 vim admin-scripts
+  822  2020-05-28 13:45:14 chmod a+x admin-scripts 
+  823  2020-05-28 13:45:22 ./admin-scripts 
+  824  2020-05-28 13:45:47 vim admin-scripts
+  825  2020-05-28 13:46:50 ./admin-scripts 
+  826  2020-05-28 13:47:10 vim admin-scripts
+  827  2020-05-28 13:48:19 ./admin-scripts 
+  828  2020-05-28 13:49:30 vim admin-scripts
+  829  2020-05-28 13:50:09 ./admin-scripts 
+  830  2020-05-28 13:50:48 vim admin-scripts
+  831  2020-05-28 13:51:23 ./admin-scripts 
+  832  2020-05-28 13:51:37 git status
+  833  2020-05-28 13:51:40 cd ..
+  834  2020-05-28 13:51:44 git status
+  835  2020-05-28 13:51:47 git add .
+  836  2020-05-28 13:52:34 git commit -m 'Accessing and cleaning up data from a file.'
+  837  2020-05-28 13:52:46 git push origin real-scripting 
+  838  2020-05-28 13:56:05 cd ..
+  839  2020-05-28 13:56:33 mv real-life-scripts/ ps
+  840  2020-05-28 13:56:40 ls ps
+  841  2020-05-28 15:54:18 ls -ltr
+  842  2020-05-28 15:54:40 sudo su
+  843  2020-05-28 21:49:32 top
+  844  2020-05-28 21:53:45 ping google.com
+  845  2020-05-28 22:04:50 cd scripts/
+  846  2020-05-28 22:05:07 cd ..
+  847  2020-05-28 22:05:12 cd ps
+  848  2020-05-28 22:13:04 ifconfig --all
+  849  2020-05-28 22:13:12 ifconfig --help
+  850  2020-05-28 22:13:33 ifconfig -a -v
+  851  2020-05-28 22:14:47 traceroute google.com
+  852  2020-05-28 22:15:22 traceroute 192.168.88.253
+  853  2020-05-28 22:15:55 traceroute google.com
+  854  2020-05-28 22:18:04 traceroute https://sealop-portfolio-blog.herokuapp.com/
+  855  2020-05-28 22:18:19 traceroute https://sealop-portfolio-blog.herokuapp.com
+  856  2020-05-28 22:20:00 ifconfig -a
+  857  2020-05-28 22:05:58 vim ping-script
+  858  2020-05-28 22:25:35 chmod a+x ping-script 
+  859  2020-05-28 22:25:41 ./ping-script 
+  860  2020-05-28 22:35:45 vim hosts-ip
+  861  2020-05-28 22:37:17 cp ping-script ping-script-multiple
+  862  2020-05-28 22:39:10 cd ps
+  863  2020-05-28 22:39:44 pwd
+  864  2020-05-28 22:37:30 vim ping-script-multiple 
+  865  2020-05-28 22:43:16 ls -ltr
+  866  2020-05-28 22:43:57 cat hosts-ip 
+  867  2020-05-28 22:44:10 ./ping-script-multiple 
+  868  2020-05-28 22:44:41 vim ping-script-multiple 
+  869  2020-05-28 22:45:12 ./ping-script-multiple 
+  870  2020-05-28 22:45:51 vim ping-script
+  871  2020-05-28 22:46:55 ./ping-script
+  872  2020-05-28 22:47:27 vim hosts-ip 
+  873  2020-05-28 22:48:03 ./ping-script-multiple 
+  874  2020-05-28 22:50:06 vim ping-script
+  875  2020-05-28 22:51:41 cd ..
+  876  2020-05-28 22:51:45 git status
+  877  2020-05-28 22:52:04 git add .
+  878  2020-05-28 22:52:50 git commit -m 'Add admin scripts to ping hosts availability.'
+  879  2020-05-28 22:58:37 ping github.com
+  880  2020-05-28 22:59:11 cleaer
+  881  2020-05-28 22:59:17 ping github.com
+  882  2020-05-28 22:53:03 git push origin real-scripting 
+  883  2020-05-28 23:00:58 sudo shutdown -r now
+  884  2020-05-28 23:19:34 ping google.com
+  885  2020-05-28 23:44:57 cd /media/revgeek/Data/
+  886  2020-05-28 23:45:04 cd hackwaks/
+  887  2020-05-28 23:45:13 cd all-bashing/
+  888  2020-05-28 23:45:19 git status
+  889  2020-05-28 23:45:37 cd bash-scripting/
+  890  2020-05-28 23:45:44 git status
+  891  2020-05-28 23:46:38 ping github.com
+  892  2020-05-28 23:49:03 code .
+  893  2020-05-28 23:45:57 git push origin real-scripting 
+  894  2020-05-28 23:57:37 git push origin real-scripting 
+  895  2020-05-29 01:21:53 git commit --amend --reset-author
+  896  2020-05-29 01:22:57 git push
+  897  2020-05-29 01:23:40 cd ps
+  898  2020-05-29 01:23:48 cd ..
+  899  2020-05-29 01:26:54 code CS3A_Assignment
+  900  2020-05-29 01:23:05 git push origin real-scripting 
+  901  2020-05-29 01:38:56 git pull --rebase
+  902  2020-05-29 01:40:14 git pull real-scripting --rebase
+  903  2020-05-29 01:41:01 git pull bash-scripting --rebase
+  904  2020-05-29 01:41:24 git pull origin/real-scripting --rebase
+  905  2020-05-29 01:41:42 git pull --rebase
+  906  2020-05-29 01:42:09 git pull origin real-scripting 
+  907  2020-05-29 01:42:29 git --rebase
+  908  2020-05-29 01:42:47 git pull --rebase
+  909  2020-05-29 01:43:27 git pull origin real-scripting --rebase
+  910  2020-05-29 01:43:50 git log
+  911  2020-05-29 01:45:02 git branch --set-upstream-to=origin/real-scripting 
+  912  2020-05-29 01:45:17 git push origin real-scripting 
+  913  2020-05-29 01:50:48 git push origin real-scripting  --force
+  914  2020-05-29 02:08:03 git reset --hard
+  915  2020-05-29 02:08:28 git gc --aggressive
+  916  2020-05-29 02:08:41 git prune
+  917  2020-05-29 02:08:56 git clean -df
+  918  2020-05-29 02:09:18 git push origin real-scripting 
+  919  2020-05-29 02:30:08 git reset --hard
+  920  2020-05-29 02:30:28 git gc --aggressive
+  921  2020-05-29 02:33:45 git stash save "push failed after several attempts."
+  922  2020-05-29 02:34:07 git stash
+  923  2020-05-29 02:35:46 git log
+  924  2020-05-29 02:36:13 git checkout ae41107205055b
+  925  2020-05-29 02:37:17 cd scripts/
+  926  2020-05-29 02:37:27 cd ..
+  927  2020-05-29 02:37:37 git status
+  928  2020-05-29 02:37:51 git push origin ae41107205055b
+  929  2020-05-29 02:38:13 git push origin real-scripting 
+  930  2020-05-29 02:41:27 git log
+  931  2020-05-29 02:42:04 git branch
+  932  2020-05-29 02:42:16 git checkout real-scripting 
+  933  2020-05-29 02:42:57 git log 
+  934  2020-05-29 02:43:21 git revert ee26b81914b0e1
+  935  2020-05-29 02:44:21 git log
+  936  2020-05-29 02:45:17 git revert ae41107205055bd2f
+  937  2020-05-29 02:45:35 git log
+  938  2020-05-29 02:45:52 git status
+  939  2020-05-29 02:46:07 git log 
+  940  2020-05-29 02:46:24 git stash 19038ade91b8bfa4c
+  941  2020-05-29 02:46:35 CLEAR
+  942  2020-05-29 02:46:48 git push origin real-scripting 
+  943  2020-05-29 03:31:04 python3 CS3A_Assignment.py 
+  944  2020-05-29 04:43:59 git checkout -n real-script
+  945  2020-05-29 04:44:07 git checkout -b real-script
+  946  2020-05-29 04:44:11 git status
+  947  2020-05-29 04:45:24 sudo apt update
+  948  2020-05-29 04:59:56 sudo apt upgrade
+  949  2020-05-29 12:22:20 python3 test_cs3a_assignment.py 
+  950  2020-05-29 12:57:34 python3 CS3A_Assignment.py 
+  951  2020-05-29 12:57:42 python3 test_cs3a_assignment.py 
+  952  2020-05-29 14:17:49 cd ..
+  953  2020-05-29 14:18:06 cd hackwaks/
+  954  2020-05-29 14:18:12 cd algorithms/
+  955  2020-05-29 14:18:17 cd Algorithms-tuts/
+  956  2020-05-29 14:18:53 mkdir linked-lists
+  957  2020-05-29 14:18:57 cd linked-lists/
+  958  2020-05-29 14:19:04 git status
+  959  2020-05-29 14:19:26 git checkout -b linked_lists
+  960  2020-05-29 14:19:39 cd ..
+  961  2020-05-29 14:19:50 code linked-lists/
+  962  2020-05-29 15:59:46 python
+  963  2020-05-29 15:59:56 python3
+  964  2020-05-29 16:17:41 python3 linkedlist.py 
+  965  2020-05-29 16:55:36 CLEAR
+  966  2020-05-29 16:55:42 python3 linkedlist.py 
+  967  2020-05-29 17:53:22 /usr/bin/python3
+  968  2020-05-29 17:56:45 python3 linkedlist.py 
+  969  2020-05-29 18:43:37 cd ..
+  970  2020-05-29 18:43:40 git status
+  971  2020-05-29 18:43:44 git add .
+  972  2020-05-29 18:43:59 git commit -m 'Add linked lists."
+  973  2020-05-29 18:44:08 git commit -m 'Add linked lists.'
+  974  2020-05-29 18:44:18 git push origin linked_lists 
+  975  2020-05-29 21:26:51 cd /media/revgeek/Data/
+  976  2020-05-29 21:27:01 cd hackwaks/
+  977  2020-05-29 21:27:07 cd work/
+  978  2020-05-29 21:27:09 clera
+  979  2020-05-29 21:27:14 cd pyexercises/
+  980  2020-05-29 21:27:21 cd client-work/
+  981  2020-05-29 21:27:30 cd CS3A_Assignment/
+  982  2020-05-29 21:27:41 code .
+  983  2020-05-29 21:35:24 python3
+  984  2020-05-29 22:40:10 python3 CS3A_Assignment.py 
+  985  2020-05-30 01:30:54 python3 -m unittest -v test_cs3a_assignment.py 
+  986  2020-05-30 03:40:22 sudo apt update
+  987  2020-05-30 04:29:52 ./pycharm.sh 
+  988  2020-05-30 04:28:41 sudo apt upgrade
+  989  2020-05-30 15:03:08 sudo apt update
+  990  2020-05-30 15:09:55 ps aux | grep -i apt
+  991  2020-05-30 15:14:45 sudo lsof /var/lib/dpkg/lock
+  992  2020-05-30 15:12:34 sudo apt upgrade
+  993  2020-05-30 16:28:31 sudo apt install firmware-linux
+  994  2020-05-30 16:32:33 sudo apt isntall apt-file
+  995  2020-05-30 16:32:45 sudo apt install apt-file
+  996  2020-05-30 16:38:51 sudo update-initramfs -u -k all
+  997  2020-05-30 16:41:43 sudo wget https://01.org/sites/default/files/downloads/intelr-graphics-linux/sklgucver61.tar.bz2 && tar xvjf sklgucver61.tar.bz2 && cd skl_guc_ver6_1/ && sudo ./install.sh
+  998  2020-05-30 16:57:54 sudo apt-file update
+  999  2020-05-30 17:01:50 apt list --upgradable
+ 1000  2020-05-30 17:02:52 sudo apt-file upgrade
+ 1001  2020-05-30 17:03:08 sudo apt upgrade
+ 1002  2020-05-30 16:19:06 sudo su
+ 1003  2020-05-30 17:30:49 sudo shutdown -r now
+ 1004  2020-05-30 18:03:14 cd /media/
+ 1005  2020-05-30 18:03:26 cd revgeek/
+ 1006  2020-05-30 18:04:00 ls -ltr
+ 1007  2020-05-30 18:27:06 man HISTTIMEFORMAT
+ 1008  2020-05-30 18:27:24 man histtimeformat
+ 1009  2020-05-30 18:27:50 man history
+ 1010  2020-05-30 18:31:35 history --help
+ 1011  2020-05-30 18:39:00 history > history-log
